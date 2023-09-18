@@ -1,5 +1,5 @@
 # 💫About Me :
-![alt](https://res.cloudinary.com/dt9jfmwiy/image/upload/v1695052210/My%20image/yzopktl1plls487thcwr.png)
+<p align="center"><a href="https://github.com/blackjack-ttp/" target="_blank"><img src="https://res.cloudinary.com/dt9jfmwiy/image/upload/v1695052210/My%20image/yzopktl1plls487thcwr.png" width="300"></a></p>
 
 🐅 Hi, I’m Thanh Phong @blackjack-ttp
 
